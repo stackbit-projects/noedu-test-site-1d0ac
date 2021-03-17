@@ -5,10 +5,11 @@ sections:
     type: section_contact
     background: gray
     title: Yhteystiedot
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |
+      Noedu Oy
+      noedu.oy@gmail.com
+
+      Otamme vastaan vain verkkolaskuja.
     form_id: contactForm
     form_fields:
       - input_type: text
